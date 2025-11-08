@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://github.com/litevo/.github/blob/main/profile/logo.png" alt="Litevo Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/litevo/.github/main/profile/logo.png" alt="Litevo Logo" width="120" />
   <h1>Litevo</h1>
   <p><strong>توسعه متن‌باز، سبک و تکاملی — Open, Simple & Evolving</strong></p>
 
   <p>
     <a href="https://github.com/litevo"><img src="https://img.shields.io/badge/GitHub-Litevo-black?logo=github&style=flat" /></a>
-    <a href="https://github.com/litevo/discussions"><img src="https://img.shields.io/badge/Join-Discussions-blue?style=flat&logo=github" /></a>
+    <a href="https://github.com/orgs/litevo/discussions"><img src="https://img.shields.io/badge/Join-Discussions-blue?style=flat&logo=github" /></a>
     <a href="#"><img src="https://img.shields.io/badge/License-MIT-green?style=flat" /></a>
   </p>
 </div>
@@ -15,91 +15,105 @@
 ## 🇮🇷 درباره Litevo
 
 **Litevo** یک سازمان متن‌باز است که برای توسعه پروژه‌های ساده، مفید و آزاد ایجاد شده است.  
-ما باور داریم بهترین ابزارها، از سادگی متولد می‌شوند. 🌱  
+ما باور داریم بهترین ابزارها از سادگی متولد می‌شوند 🌱  
 
 🎯 **اهداف ما:**
-- ساخت ابزارهای سبک و قابل استفاده برای همه  
-- ترویج یادگیری و اشتراک دانش بین توسعه‌دهندگان  
-- حمایت از فرهنگ متن‌باز و همکاری آزاد  
-- تمرکز بر کیفیت، مستندسازی و طراحی ساده  
+- ساخت ابزارهای سبک و کاربردی  
+- ترویج یادگیری و همکاری گروهی  
+- تولید مستندات آزاد و شفاف  
+- حفظ فرهنگ متن‌باز و آزادی نرم‌افزار  
 
 ---
 
 ## 💻 مشارکت در پروژه‌ها
 
 اگر به دنیای متن‌باز علاقه‌مندید، خوش آمدید ❤️  
-برای مشارکت:
 
 1. یکی از پروژه‌های ما را از [صفحه سازمان](https://github.com/litevo) انتخاب کنید  
 2. Fork کنید و تغییرات خود را ایجاد کنید  
 3. Pull Request بفرستید  
-4. در بخش [Discussions](https://github.com/orgs/litevo/discussions) درباره ایده‌ها گفت‌وگو کنید  
+4. در [Discussions](https://github.com/orgs/litevo/discussions) درباره ایده‌ها گفت‌وگو کنید  
 
-ما از تازه‌کارها نیز استقبال می‌کنیم — Litevo جایی برای یادگیری و رشد جمعی است 🌟  
+Litevo جای رشد و یادگیری برای همه است 🌟  
 
 ---
 
 ## 🧠 فلسفه نام Litevo
 > Lite + Evo = **تکامل از دل سادگی**
 
-Litevo یعنی حرکت مداوم به‌سمت نرم‌افزارهای ساده‌تر، بهتر و آزادتر.  
+Litevo یعنی حرکت مداوم به‌سمت نرم‌افزارهای ساده‌تر، بهتر و آزادتر.
 
 ---
 
-## 📦 پروژه‌های فعال
+## 📦 پروژه‌های شاخص
 
-| پروژه | توضیح کوتاه | وضعیت |
-|--------|---------------|--------|
-| 🧰 [`lite-utils`](https://github.com/litevo/lite-utils) | ابزارهای کمکی توسعه‌دهندگان | 🚧 در حال توسعه |
-| ⚙️ [`lite-core`](https://github.com/litevo/lite-core) | هسته پروژه‌های سبک و سریع | 🟢 فعال |
-| 📖 [`lite-docs`](https://github.com/litevo/lite-docs) | مستندات و آموزش‌ها | ✍️ در حال نگارش |
+<div align="center">
 
-> پروژه‌های جدید به‌مرور در این بخش معرفی می‌شوند.
+<a href="https://github.com/litevo/lite-utils">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=litevo&repo=lite-utils&theme=transparent" />
+</a>
+<a href="https://github.com/litevo/lite-core">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=litevo&repo=lite-core&theme=transparent" />
+</a>
+
+</div>
+
+
+---
+
+## 👥 اعضای فعال
+
+<div align="center">
+
+[![Contributors](https://contrib.rocks/image?repo=litevo/lite-core)](https://github.com/litevo/lite-core/graphs/contributors)
+
+</div>
+.
 
 ---
 
 ## 🌍 English Version
 
-**Litevo** is an open-source organization focused on creating lightweight, practical, and community-driven software.  
-We believe great tools are born from simplicity.
+**Litevo** is an open-source organization focused on building lightweight, practical, and community-driven tools.  
+We believe great software evolves from simplicity.
 
 🎯 **Our Goals:**
-- Build simple, useful open-source tools  
-- Encourage collaboration and shared learning  
-- Keep everything lightweight and well-documented  
-- Promote the spirit of open software  
+- Create simple, useful open-source utilities  
+- Encourage collaborative learning  
+- Keep things clean, well-documented, and open  
+- Promote open software culture  
 
 ---
 
 ## 💻 Contributing
 
-We love contributors ❤️
+We love contributors ❤️  
 
-1. Explore our [organization page](https://github.com/litevo)  
-2. Fork a project and start coding  
+1. Visit our [GitHub organization](https://github.com/litevo)  
+2. Fork a repository  
 3. Submit a Pull Request  
-4. Join the [Discussions](https://github.com/orgs/litevo/discussions)
+4. Join the [Discussions](https://github.com/orgs/litevo/discussions)  
 
-Litevo is a place for everyone — from beginners to experts.
+Whether you’re new to open-source or an experienced developer — you’re welcome at Litevo.
 
 ---
 
 ## 🧠 The Name
 > Lite + Evo = **Evolution through Simplicity**
 
-Litevo represents continuous growth through simple, clean, and open creation.
+Litevo stands for continuous growth through simplicity and collaboration.
 
 ---
 
 ## 📜 License
-All Litevo projects are released under the **MIT License**.  
-Freedom and openness are at our core.
+All Litevo projects are licensed under **MIT License** —  
+because software freedom matters.
 
 ---
 
 <div align="center">
 
-### 🌟 Join Us on Our Journey  
+### 🌟 Join the Evolution  
 <a href="https://github.com/litevo"><img src="https://img.shields.io/badge/Visit-Litevo-black?style=for-the-badge&logo=github" /></a>  
 <a href="https://github.com/orgs/litevo/discussions"><img src="https://img.shields.io/badge/Start_Chat-Discussions-blue?style=for-the-badge&logo=github" /></a>
 
